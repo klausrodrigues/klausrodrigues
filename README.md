@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Klaus Rodrigues
 
-- 🔭 Hoje trabalho com Analista de Suporte Jr
+- 🔭 Hoje trabalho com Analista de Suporte Jr na empresa Tecnoset.
 - 🌱 Estudando Ciencias da Computação, Power BI e Full-Stack com .NET 5, Angular + EF Core
 - 📫 Contate-me no email: rodrigues.klaus@gmail.com
 
@@ -25,8 +25,7 @@
  <a href="https://web.whatsapp.com/send?phone=5516997012899" target="_blank"><img src= https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white </a>  
   <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRzDQqNvkLSNHsDpzLtphhlcPrxXClXxbkwhqNDsNjTCZtNxhhDZJhLzrmcfkkjVDSlRkBzl"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>                                                                                 
 </div>
-  
-![Snake animation](https://github.com/klausrodrigues/klausrodrigues/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
